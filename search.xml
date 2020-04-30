@@ -25,4 +25,17 @@
 <p>虽然又经过研究,office2019的新特性除了Dark Mode没什么吸引我的地方…但还是闲到无聊进行了升级…</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>在Dock栏添加网址快捷方式图标</title>
+    <url>/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/</url>
+    <content><![CDATA[<h3 id="建立网址快捷方式"><a href="#建立网址快捷方式" class="headerlink" title="建立网址快捷方式"></a>建立网址快捷方式</h3><p>光标移动到浏览器地址栏左边,会出现+号,直接点击是添加到Reading List,若拖动到桌面,则可生成.webloc文件.</p>
+<h3 id="自定义个性图标"><a href="#自定义个性图标" class="headerlink" title="自定义个性图标"></a>自定义个性图标</h3><p>右键.webloc文件,选择Get Info,用系统自带的Preview打开要替换的图标,选中图标,Command+A,Command+C.点击之前Get Info打开窗口的左上角图形,Command+V.</p>
+<p>值得注意的是,为了最终的显示效果,需要正方形图片,且需要足够的清晰度.</p>
+<h3 id="假装是App"><a href="#假装是App" class="headerlink" title="假装是App"></a>假装是App</h3><p>拖动调整好的快捷方式到Dock栏右侧区域(Trash旁边),以后直接点击该图标即可打开网址.</p>
+<p>值得注意的是,文件名就是Dock栏中现实的标题.</p>
+<p>此外,一旦添加到Dock中,该网址相当于被写入Dock.当我们修改源文件时,Dock栏中对应的图标、名称等不会发生相应变化.需要将Dock栏中的图标拖出,重新拖入.</p>
+<h3 id="未解决的问题"><a href="#未解决的问题" class="headerlink" title="未解决的问题"></a>未解决的问题</h3><p>在重装Office系列软件后,觉得OutLook并没有特别好用,故想借助OutLook的图标创建一个QQ mail的网页快捷方式,无奈尝试好久,发现Launchpad似乎只可以识别.app格式,而对于/Applications文件夹中的.webloc无法识别.</p>
+<p>更复杂的解决思路是修改Launchpad的数据库或将.webloc文件打包为.app,精力有限,在此不做更多尝试.</p>
+]]></content>
+  </entry>
 </search>
