@@ -4,11 +4,11 @@
     <title>Day-1</title>
     <url>/2020/04/26/Day-1/</url>
     <content><![CDATA[<p>在众多作业DDL的高压下终于在这个周六忙里偷闲把荒废了很久的个人博客拾了起来…<br>每天总是写作业挺枯燥的…准备以此记录自己的娱乐生活…<br>先用默认主题…有机会再找好的主题吧</p>
-<h2 id="开篇先推荐一部电影吧-《拯救大兵瑞恩》-今天才看-挺好看的"><a href="#开篇先推荐一部电影吧-《拯救大兵瑞恩》-今天才看-挺好看的" class="headerlink" title="开篇先推荐一部电影吧:《拯救大兵瑞恩》,今天才看,挺好看的"></a>开篇先推荐一部电影吧:《拯救大兵瑞恩》,今天才看,挺好看的</h2><img src="/2020/04/26/Day-1/SavingPrivateRyan.png" width="100%" height="100%" alt="拯救大兵瑞恩" align="center">
+<h2 id="开篇先推荐一部电影吧-《拯救大兵瑞恩》-今天才看-挺好看的"><a href="#开篇先推荐一部电影吧-《拯救大兵瑞恩》-今天才看-挺好看的" class="headerlink" title="开篇先推荐一部电影吧:《拯救大兵瑞恩》,今天才看,挺好看的"></a>开篇先推荐一部电影吧:《拯救大兵瑞恩》,今天才看,挺好看的</h2><img src="/2020/04/26/Day-1/SavingPrivateRyan.png" width="100%" height="100%" alt="拯救大兵瑞恩">
 
-<h2 id="然后秀一下鼠标垫-来源于洛奇Mabinogi某次活动所送"><a href="#然后秀一下鼠标垫-来源于洛奇Mabinogi某次活动所送" class="headerlink" title="然后秀一下鼠标垫,来源于洛奇Mabinogi某次活动所送"></a>然后秀一下鼠标垫,来源于洛奇Mabinogi某次活动所送</h2><h3 id="人物是塔拉克"><a href="#人物是塔拉克" class="headerlink" title="人物是塔拉克"></a>人物是塔拉克</h3><img src="/2020/04/26/Day-1/Talak.jpg" width="75%" height="75%">
+<h2 id="然后秀一下鼠标垫-来源于洛奇Mabinogi某次活动所送"><a href="#然后秀一下鼠标垫-来源于洛奇Mabinogi某次活动所送" class="headerlink" title="然后秀一下鼠标垫,来源于洛奇Mabinogi某次活动所送"></a>然后秀一下鼠标垫,来源于洛奇Mabinogi某次活动所送</h2><h3 id="人物是塔拉克"><a href="#人物是塔拉克" class="headerlink" title="人物是塔拉克"></a>人物是塔拉克</h3><img src="/2020/04/26/Day-1/Talak.jpg" width="75%" height="75%" alt="塔拉克鼠标垫">
 
-<h3 id="工会群里的小伙伴也晒出了同款玛丽"><a href="#工会群里的小伙伴也晒出了同款玛丽" class="headerlink" title="工会群里的小伙伴也晒出了同款玛丽"></a>工会群里的小伙伴也晒出了同款玛丽</h3><img src="/2020/04/26/Day-1/Mary.jpg" width="75%" height="75%">
+<h3 id="工会群里的小伙伴也晒出了同款玛丽"><a href="#工会群里的小伙伴也晒出了同款玛丽" class="headerlink" title="工会群里的小伙伴也晒出了同款玛丽"></a>工会群里的小伙伴也晒出了同款玛丽</h3><img src="/2020/04/26/Day-1/Mary.jpg" width="75%" height="75%" alt="玛丽鼠标垫">
 
 <h2 id="其他内容以后慢慢丰富…"><a href="#其他内容以后慢慢丰富…" class="headerlink" title="其他内容以后慢慢丰富…"></a>其他内容以后慢慢丰富…</h2>]]></content>
   </entry>
@@ -28,13 +28,16 @@
   <entry>
     <title>在Dock栏添加网址快捷方式图标</title>
     <url>/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/</url>
-    <content><![CDATA[<h3 id="建立网址快捷方式"><a href="#建立网址快捷方式" class="headerlink" title="建立网址快捷方式"></a>建立网址快捷方式</h3><p>光标移动到浏览器地址栏左边,会出现+号,直接点击是添加到Reading List,若拖动到桌面,则可生成.webloc文件.</p>
-<h3 id="自定义个性图标"><a href="#自定义个性图标" class="headerlink" title="自定义个性图标"></a>自定义个性图标</h3><p>右键.webloc文件,选择Get Info,用系统自带的Preview打开要替换的图标,选中图标,Command+A,Command+C.点击之前Get Info打开窗口的左上角图形,Command+V.</p>
-<p>值得注意的是,为了最终的显示效果,需要正方形图片,且需要足够的清晰度.</p>
+    <content><![CDATA[<h3 id="建立网址快捷方式"><a href="#建立网址快捷方式" class="headerlink" title="建立网址快捷方式"></a>建立网址快捷方式</h3><p>光标移动到浏览器地址栏左边,会出现+号,直接点击是添加到Reading List,若拖动到桌面,则可生成.webloc文件.<br><img src="/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/plus.png" width="75%" height="75%" alt="+号位置"></p>
+<h3 id="自定义个性图标"><a href="#自定义个性图标" class="headerlink" title="自定义个性图标"></a>自定义个性图标</h3><p>右键.webloc文件,选择Get Info.<br><img src="/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/getInfo.png" width="40%" height="40%" alt="Get Info"><br>用系统自带的Preview打开要替换的图标,选中图标,Command+A,Command+C.点击之前Get Info打开窗口的左上角图形,Command+V.<br><img src="/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/icon.png" width="40%" height="40%" alt="icon"></p>
 <h3 id="假装是App"><a href="#假装是App" class="headerlink" title="假装是App"></a>假装是App</h3><p>拖动调整好的快捷方式到Dock栏右侧区域(Trash旁边),以后直接点击该图标即可打开网址.</p>
+<img src="/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/finished.png" width="40%" height="40%" alt="finished">
+
 <p>值得注意的是,文件名就是Dock栏中现实的标题.</p>
 <p>此外,一旦添加到Dock中,该网址相当于被写入Dock.当我们修改源文件时,Dock栏中对应的图标、名称等不会发生相应变化.需要将Dock栏中的图标拖出,重新拖入.</p>
-<h3 id="未解决的问题"><a href="#未解决的问题" class="headerlink" title="未解决的问题"></a>未解决的问题</h3><p>在重装Office系列软件后,觉得OutLook并没有特别好用,故想借助OutLook的图标创建一个QQ mail的网页快捷方式,无奈尝试好久,发现Launchpad似乎只可以识别.app格式,而对于/Applications文件夹中的.webloc无法识别.</p>
+<h3 id="未解决的问题"><a href="#未解决的问题" class="headerlink" title="未解决的问题"></a>未解决的问题</h3><p>在重装Office系列软件后,觉得OutLook并没有特别好用,故想借助OutLook的图标创建一个QQ mail的网页快捷方式,无奈尝试好久,发现Launchpad似乎只可以识别.app格式,而对于Applications文件夹中的.webloc无法识别.</p>
+<img src="/2020/04/30/%E5%9C%A8Dock%E6%A0%8F%E6%B7%BB%E5%8A%A0%E7%BD%91%E5%9D%80%E5%BF%AB%E6%8D%B7%E6%96%B9%E5%BC%8F%E5%9B%BE%E6%A0%87/office.png" width="100%" height="100%" alt="Office全家桶">
+
 <p>更复杂的解决思路是修改Launchpad的数据库或将.webloc文件打包为.app,精力有限,在此不做更多尝试.</p>
 ]]></content>
   </entry>
