@@ -120,4 +120,11 @@
 <p>总之,强推!也适合作为家庭影院观影项目!</p>
 ]]></content>
   </entry>
+  <entry>
+    <title>关于ssd</title>
+    <url>/2020/05/12/%E5%85%B3%E4%BA%8Essd/</url>
+    <content><![CDATA[<p>京东669购入了三星T5 500GB.</p>
+<p>开封,先测硬盘状态,下载<a href="https://binaryfruit.com/drivedx" target="_blank" rel="noopener">DriveDx</a>查看硬盘使用时间、读写次数等信息,App Store搜索下载Blackmagic Disk Speed Test测试硬盘读写速度.<br><img src="/2020/05/12/%E5%85%B3%E4%BA%8Essd/disk.png" width="100%" height="100%" alt="Blackmagic Disk Speed Test"><br>实际测试,拷贝13.68GB的视频,所需时间约32.38秒,平均0.42GB/s,还行,不快,但够用了.</p>
+]]></content>
+  </entry>
 </search>
