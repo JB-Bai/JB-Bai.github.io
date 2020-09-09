@@ -3,8 +3,10 @@ layout: page
 permalink: /courses/index.html
 title: Courses I've learned
 ---
+### Courses I've learned
 
 ## The 3rd year 2st semester
+
 **[Compiler](https://cs.nju.edu.cn/changxu/2_compiler/index.html)** *tanght by [Prof. XU Chang](https://cs.nju.edu.cn/changxu/)*
 
 **[Machine Learning](http://www.lamda.nju.edu.cn/ml2020/handouts.htm)** *tanght by [Dr. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) & [Prof. De-Chuan Zhan](http://www.lamda.nju.edu.cn/zhandc/) & [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/)*
@@ -16,6 +18,7 @@ title: Courses I've learned
 **Big Data Procesing Lab** *taught by [Prof. Rong Gu](https://cs.nju.edu.cn/gurong/) & [Prof. Yihua Huang](https://cs.nju.edu.cn/yhuang/)*
 
 ## The 3rd year 1st semester
+
 **Database** 
 
 **Software Engineering** *taught by [Prof. Tian Zhang](https://cs.nju.edu.cn/zhangtian/)*
@@ -31,6 +34,7 @@ title: Courses I've learned
 **Macroeconomics**
 
 ## The 2nd year 2st semester
+
 **Algorithm**  *taught by [Prof. Yu Huang](https://cs.nju.edu.cn/yuhuang/)*
 
 **Operating Systems**  *taught by [Prof. Feng Xu](http://ics.nju.edu.cn/people/fengxu/)*
@@ -41,6 +45,7 @@ title: Courses I've learned
 
 
 ## The 2nd year 1st semester
+
 **Data Structure**  *taught by [Prof. Lin Shang](https://cs.nju.edu.cn/shanglin/)*
 
 **Experiments in Digital Logical Circuits(language:Verilog HDL)** 
@@ -55,6 +60,7 @@ title: Courses I've learned
 
 
 ## The 1st year 2st semester
+
 **Practice of Programming** 
 
 **Digital Circuits and Systems** *taught by [Prof. Haijun Wu](https://cs.nju.edu.cn/wuhaijun/)*
@@ -64,6 +70,7 @@ title: Courses I've learned
 **Discrete Mathematics** *taught by Prof. Nan Wu*
 
 ## The 1st year 1st semester
+
 **Basics of Programming(language:C)**  *taught by [Prof. Yanwen Guo](https://cs.nju.edu.cn/ywguo/)*
 
 **Calculus Ⅰ** *taught by Prof. Guofei Zhou*
