@@ -12,11 +12,11 @@ owner:
   email:          bai.jinbin@foxmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
-  facebook:       https://www.facebook.com/jinbin.bai
+  facebook:       jinbin.bai
   github: 
-  linkedin:       https://www.linkedin.com/in/jinbin-bai
+  linkedin:       jinbin-bai
   scholar: 
-  instagram:      https://www.instagram.com/bai_w5/
+  instagram:      bai_w5
   lastfm:
   tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -73,3 +73,6 @@ include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
+# git add .
+# git commit -m 'c1'
+# git push origin master
