@@ -5,7 +5,7 @@ layout: page
 # About Me
 
 <!-- <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300"> -->
-My name is Jinbin Bai.  I am currently studying in Nanjing University.
+My name is Jinbin Bai.  I am currently studying at Nanjing University, majoring in computer science.
 
 <!-- I am currently working on PyTorch Compilers
 at Facebook.
