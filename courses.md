@@ -4,14 +4,6 @@ permalink: /courses/index.html
 title: Courses I've learned
 ---
 
-# Hobbies
-
----
-title: Courses I've attended
-date: 2020-06-06 14:40:58
-type: courses
----
-
 ## The 3rd year 2st semester
 **[Compiler](https://cs.nju.edu.cn/changxu/2_compiler/index.html)** *tanght by [Prof. XU Chang](https://cs.nju.edu.cn/changxu/)*
 **[Machine Learning](http://www.lamda.nju.edu.cn/ml2020/handouts.htm)** *tanght by [Dr. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) & [Prof. De-Chuan Zhan](http://www.lamda.nju.edu.cn/zhandc/) & [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/)*
