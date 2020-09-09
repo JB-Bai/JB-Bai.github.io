@@ -4,8 +4,10 @@ layout: page
 
 # About Me
 
-<img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300">
-My name is Jason Ansel.  I am currently working on PyTorch Compilers
+<!-- <img src="/images/jasonansel4.jpg" class="floatpic" width="200" height="300"> -->
+My name is Jinbin Bai.  I am currently studying in Nanjing University.
+
+<!-- I am currently working on PyTorch Compilers
 at Facebook.
 
 Before Facebook, I was at GoDaddy helping build a deep learning platform
@@ -34,5 +36,5 @@ distributed checkpoint/restart system.
 [OpenTuner]: http://opentuner.org/
 [PetaBricks]: http://projects.csail.mit.edu/petabricks/
 [Commit]: http://groups.csail.mit.edu/commit/
-[Saman Amarasinghe]: http://people.csail.mit.edu/saman/
+[Saman Amarasinghe]: http://people.csail.mit.edu/saman/ -->
 
