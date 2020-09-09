@@ -1,21 +1,21 @@
-title: Jason Ansel
+title: Jinbin Bai
 #tagline:          A short tagline
 #description:      Describe your website.
 #Comment out url when working locally to resolve base urls correctly
-url: https://jasonansel.com
+url: https://jb-bai.github.io
 
 # Owner/author information
 owner:
-  name:           Jason Ansel
+  name:           Jinbin Bai
   avatar:         jasonansel.jpg
 #  bio:
-  email:          jasonansel@jasonansel.com
+  email:          bai.jinbin@foxmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:
   facebook:
-  github: jansel
-  linkedin: jansel
-  scholar: https://scholar.google.com/citations?user=jDNYtP0AAAAJ
+  github: 
+  linkedin: 
+  scholar: 
   instagram:
   lastfm:
   tumblr:
@@ -24,6 +24,8 @@ owner:
 
 # Analytics and webmaster tools stuff goes here
 google_verify: "JW0gdx05xcJSQe6saaq67u_U1vgdfuh8OxrjS-fEuyQ"
+google_analytics: UA-177554566-1
+
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
 
@@ -32,6 +34,8 @@ bing_verify:
 links:
   - title: About Me
     url: /
+  - title: Courses
+    url: /courses/
   - title: Projects
     url: /projects/
   - title: Publications
@@ -40,7 +44,7 @@ links:
     url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: America/New_York
+timezone: Asia/Shanghai
 future: true
 highlighter: rouge
 # markdown: kramdown
