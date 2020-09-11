@@ -3,7 +3,7 @@ layout: page
 permalink: /courses/index.html
 title: Courses I've attended
 ---
-## Courses I've attended  
+# Courses I've Attended  
   
   
 ### The 3rd year 2st semester  
