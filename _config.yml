@@ -7,7 +7,7 @@ url: https://jb-bai.github.io
 # Owner/author information
 owner:
   name:           Jinbin Bai
-  avatar:         jasonansel.jpg
+  avatar:         jinbin.jpg
 #  bio:
   email:          bai.jinbin@foxmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
@@ -39,6 +39,8 @@ links:
     url: /pdf/Bai_CV.pdf
   - title: A Brief Self-Introduction
     url: /pdf/Presentation_Self_Introduction.pdf
+  - title: Recent work
+    url: /recent
   #- title: Projects
   #  url: /projects/
   #- title: Publications
