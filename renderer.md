@@ -13,9 +13,9 @@
     `sudo apt-get install build-essential scons git libpng12-dev libjpeg-dev libilmbase-dev libxerces-c-dev libboost-all-dev libopenexr-dev libglewmx-dev libxxf86vm-dev libeigen3-dev libfftw3-dev`  
     `sudo apt-get install libcollada-dom-dev`  
     `sudo apt-get install qt5-default libqt5opengl5-dev libqt5xmlpatterns5-dev`  
-    修改config.py文件中
-    ` CXXFLAGS = ['-O3', '-Wall','-fPIC','-std=c++11','-g', '-pipe', '-march=nocona', '-msse2', '-ftree-vectorize', '-mfpmath=sse', '-funsafe-math-optimizations', '-fno-rounding-math', '-fno-signaling-nans', '-fno-math-errno', '-fomit-frame-pointer', '-DMTS_DEBUG', '-DSINGLE_PRECISION', '-DSPECTRUM_SAMPLES=3', '-DMTS_SSE', '-DMTS_HAS_COHERENT_RT', '-fopenmp', '-fvisibility=hidden', '-mtls-dialect=gnu2']  `
-    开始编译`scons -j8`直到出现` scons:Done building targets. `
+    修改config.py文件中  
+    `CXXFLAGS = ['-O3', '-Wall','-fPIC','-std=c++11','-g', '-pipe', '-march=nocona', '-msse2', '-ftree-vectorize', '-mfpmath=sse', '-funsafe-math-optimizations', '-fno-rounding-math', '-fno-signaling-nans', '-fno-math-errno', '-fomit-frame-pointer', '-DMTS_DEBUG', '-DSINGLE_PRECISION', '-DSPECTRUM_SAMPLES=3', '-DMTS_SSE', '-DMTS_HAS_COHERENT_RT', '-fopenmp', '-fvisibility=hidden', '-mtls-dialect=gnu2']`  
+    开始编译`scons -j8`直到出现` scons:Done building targets.`  
     表示编译成功。  
     `source setpath.sh`
 
