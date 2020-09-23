@@ -40,5 +40,5 @@ https://github.com/mitsuba-renderer/mitsuba/issues/125
 
 [官网]: https://www.mitsuba-renderer.org/download.html  
 [编译方式]: https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf
-[ubuntu16.04]: https://releases.ubuntu.com/xenial/  
+[ubuntu16.04LTS]: https://releases.ubuntu.com/xenial/  
 [链接]: https://github.com/mitsuba-renderer/mitsuba/issues/125  
