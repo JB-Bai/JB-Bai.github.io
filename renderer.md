@@ -32,7 +32,7 @@
 2.4 编译成功后，`./dist/mtsgui` 即可打开GUI界面。  
 
 
-References：
+### References：
 https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf  
 https://fancyvin.github.io/2019/03/06/how-to-compile-mitsuba-renderer/  
 https://github.com/mitsuba-renderer/mitsuba/issues/125  
