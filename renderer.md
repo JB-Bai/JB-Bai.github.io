@@ -23,11 +23,11 @@
 
 2.2 虚拟机内存要尽可能大，经过实测2GB内存不足以编译。故笔者设置了8GB内存。  
 
-2.3 如果出现类似“Package QtWidgets was not found in the pkg-config search path.”的报错，可参考[链接]:  
-    cd /usr/lib/x86_64-linux-gnu/pkgconfig
-    ls Qt*
-    将所有类似Qt5的文件命名为Qt
-    sudo ln -s ./Qt5Core.pc ./QtCore.pc
+2.3 如果出现类似“Package QtWidgets was not found in the pkg-config search path.”的报错，可参考[链接]:    
+    `cd /usr/lib/x86_64-linux-gnu/pkgconfig`
+    `ls Qt*`
+    将所有类似Qt5的文件命名为Qt  
+    `sudo ln -s ./Qt5Core.pc ./QtCore.pc`
 
 2.4 编译成功后，`./dist/mtsgui` 即可打开GUI界面。  
 
