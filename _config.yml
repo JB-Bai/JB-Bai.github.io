@@ -40,9 +40,11 @@ links:
   - title: A Brief Self-Introduction
     url: /pdf/Presentation_Self_Introduction.pdf
   - title: Recent work
-    url: /recent
+    url: /renderer
   - title: Dream & Future
     url: /future
+  - title: Blog
+    url: /
   #- title: Projects
   #  url: /projects/
   #- title: Publications
