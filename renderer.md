@@ -3,7 +3,8 @@
 
 1.值得注意的是[官网]downlaod的安装包，均为0.5版本，经实测，0.5版本的xml无法导入0.6版本的xml。部分Example scenes为0.4版本，可正常导入。  
 
-2.需要0.6版本可编译源码生成。参考编译方式[编译方式]有若干需要注意的地方。  
+2.需要0.6版本可编译源码生成。参考[编译方式]有若干需要注意的地方。  
+
 2.0 依次执行如下指令。  
     `cd ~`  
     `git clone https://github.com/mitsuba-renderer/mitsuba`  
@@ -13,9 +14,8 @@
     `sudo apt-get install libcollada-dom-dev`  
     `sudo apt-get install qt5-default libqt5opengl5-dev libqt5xmlpatterns5-dev`  
     修改config.py文件中
-    > CXXFLAGS = ['-O3', '-Wall','-fPIC','-std=c++11','-g', '-pipe', '-march=nocona', '-msse2', '-ftree-vectorize', '-mfpmath=sse', '-funsafe-math-optimizations', '-fno-rounding-math', '-fno-signaling-nans', '-fno-math-errno', '-fomit-frame-pointer', '-DMTS_DEBUG', '-DSINGLE_PRECISION', '-DSPECTRUM_SAMPLES=3', '-DMTS_SSE', '-DMTS_HAS_COHERENT_RT', '-fopenmp', '-fvisibility=hidden', '-mtls-dialect=gnu2']  
-    开始编译`scons -j8`直到出现
-    >scons:Done building targets.
+    ` CXXFLAGS = ['-O3', '-Wall','-fPIC','-std=c++11','-g', '-pipe', '-march=nocona', '-msse2', '-ftree-vectorize', '-mfpmath=sse', '-funsafe-math-optimizations', '-fno-rounding-math', '-fno-signaling-nans', '-fno-math-errno', '-fomit-frame-pointer', '-DMTS_DEBUG', '-DSINGLE_PRECISION', '-DSPECTRUM_SAMPLES=3', '-DMTS_SSE', '-DMTS_HAS_COHERENT_RT', '-fopenmp', '-fvisibility=hidden', '-mtls-dialect=gnu2']  `
+    开始编译`scons -j8`直到出现` scons:Done building targets. `
     表示编译成功。  
     `source setpath.sh`
 
@@ -31,18 +31,15 @@
 
 2.4 编译成功后，`./dist/mtsgui` 即可打开GUI界面。  
 
+
 References：
 https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf  
 https://fancyvin.github.io/2019/03/06/how-to-compile-mitsuba-renderer/  
 https://github.com/mitsuba-renderer/mitsuba/issues/125  
 
 
-
-
-
-
 [官网]: https://www.mitsuba-renderer.org/download.html  
-[编译方式]；https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf
+[编译方式]: https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf
 [ubuntu16.04]: https://releases.ubuntu.com/xenial/  
 [链接]: https://github.com/mitsuba-renderer/mitsuba/issues/125  
 
