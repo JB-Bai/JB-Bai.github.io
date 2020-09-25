@@ -38,7 +38,56 @@ https://fancyvin.github.io/2019/03/06/how-to-compile-mitsuba-renderer/
 https://github.com/mitsuba-renderer/mitsuba/issues/125  
 
 
+
+
+### DataSet
+
+#### [sftp登录及命令行用法]  
+
+##### 打开终端，连接远程Linux  
+`sftp user@host`  
+`例如：sftp root@192.168.1.2`    
+##### 上传文件  
+`put local_path remote_path`
+`例如：put -r /home/share/read.txt /home/root`
+##### 上传文件夹以文件夹里的所有内容  
+比如上传文件夹 folder，首先需要在远程机上创建这个文件夹，然后使用下面命令 put  
+`put -r /home/share/folder/* /home/root/folder`
+##### 下载文件
+`get remote_path local_path`
+`例如：get -r /usr/local/some.zip /home/share`
+##### 下载文件夹以文件夹里的所有内容  
+比如下载文件夹 folder，首先需要在本机上创建这个文件夹，然后使用下面命令 get
+`get -r /usr/local/folder/* /home/share/folder`
+##### 退出
+`exit`
+
+#### 好用的sftp客户端  
+Termius  
+
+#### dataset1
+代码:[rotatepano_bai.py]   
+文件放置于`/home/ypp/work/data_process/mitsuba/rotate/`  
+
+值得注意的是：  
+1.先cd到mitsuba目录，执行`source setpath.sh`  
+2.遇到版本不兼容的问题，将xml中0.5改为0.6  
+
+Update in Sep. 25. 提取对应txt做另存处理。
+
+#### dataset2
+执行`sh unzipDataset2.sh`  
+代码:[unzipDataset2.sh]  
+文件放置于`/home/ypp/lavel\ data/`
+
+值得注意的是： 
+1.可能需要修改第一行环境配置  
+
+
 [官网]: https://www.mitsuba-renderer.org/download.html  
 [编译方式]: https://medium.com/@sreenithyc21/10-steps-to-install-mitsuba-renderer-on-ubuntu-38a9318fbcdf
 [ubuntu16.04LTS]: https://releases.ubuntu.com/xenial/  
 [链接]: https://github.com/mitsuba-renderer/mitsuba/issues/125  
+[sftp登录及命令行用法]: https://blog.csdn.net/qq_26954773/article/details/78199365
+[rotatepano_bai.py]: https://jb-bai.github.io/docs/rotatepano_bai.py
+[unzipDataset2.sh]: https://jb-bai.github.io/docs/unzipDataset2.sh
