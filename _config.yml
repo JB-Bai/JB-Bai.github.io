@@ -35,16 +35,16 @@ links:
     url: /
   - title: Courses
     url: /courses/
-  - title: CV
-    url: /pdf/Bai_CV.pdf
-  - title: A Brief Self-Introduction
-    url: /pdf/Presentation_Self_Introduction.pdf
+  # - title: CV
+  #   url: /pdf/Bai_CV.pdf
+  # - title: A Brief Self-Introduction
+  #   url: /pdf/Presentation_Self_Introduction.pdf
   - title: Recent work
     url: /renderer
   - title: Dream & Future
     url: /future
-  - title: Blog
-    url: /
+  # - title: Blog
+  #   url: /
   #- title: Projects
   #  url: /projects/
   #- title: Publications
