@@ -73,7 +73,8 @@ Termius
 1.先cd到mitsuba目录，执行`source setpath.sh`  
 2.遇到版本不兼容的问题，将xml中0.5改为0.6  
 
-Update in Sep. 25. 提取对应txt做另存处理。
+Update in Sep. 25. 提取对应txt做另存处理。  
+文件放置于 `/home/ypp/SUN360/update_txt_for_SUN360HDR_norotate/`  
 
 #### dataset2
 执行`sh unzipDataset2.sh`  

@@ -15,8 +15,9 @@ if __name__ == "__main__":
     root_dir = '/home/ypp/SUN360/SUN360HDR'
     root_txt_dir = '/home/illu/data/outdoor/trainset'
     des_dir = '/home/ypp/SUN360/SUN360HDR_norotate'
-
-    update_txt_dir = '/home/ypp/SUN360/update_txt_for_SUN360HDR_norotate'
+    
+    os.system('mkdir /home/ypp/SUN360/update_txt_for_SUN360HDR_norotate/')
+    update_txt_dir = '/home/ypp/SUN360/update_txt_for_SUN360HDR_norotate/'
 
     dirs = os.listdir(root_dir)
     txt_dirs = os.listdir(root_txt_dir)
@@ -34,13 +35,13 @@ if __name__ == "__main__":
 
                 num+=1
                 print(num)
-                with open(f_txt_all) as f:
-                    line = f.readline()
-                    azimuth = -1* float(line.split(',')[1])
-                    print (azimuth)
-                    #rotate(azimuth * 180 / math.pi, path, des_dir + '/' + folder + ffolder + '_rotate.exr')   # all saved as .exr
-                    print('found!')
-                    rotate(azimuth * 180 / math.pi, cur_file, des_dir + '/' + f_txt[:20] + '.exr') 
+                # with open(f_txt_all) as f:
+                #     line = f.readline()
+                #     azimuth = -1* float(line.split(',')[1])
+                #     print (azimuth)
+                #     #rotate(azimuth * 180 / math.pi, path, des_dir + '/' + folder + ffolder + '_rotate.exr')   # all saved as .exr
+                #     print('found!')
+                #     rotate(azimuth * 180 / math.pi, cur_file, des_dir + '/' + f_txt[:20] + '.exr') 
 
     
     
