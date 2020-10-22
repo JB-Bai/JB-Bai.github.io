@@ -3,10 +3,26 @@ layout: page
 permalink: /hobbies/index.html
 title: Hobbies
 ---
-
 # Hobbies
 
-## Coffee Roasting
+## Games
+
+### Mabinogi
+I enjoy MMORPG Mabinogi. And I began to play Mabinogi in 2015. My account is on the 玛丽(亚特) server in China Mainland, naming 白雪见. Welcome to play mabinogi with me. Some screenshots related to this game could be found on my facebook account.
+
+[comment]: <> (YANG810594956 997920856JAY )
+
+### QQ SPEED
+I began to play this racing game in 2009. My account is on the 电信 server, naming 斯蒂芬更好. Welcome to play QQ speed with me. Some screenshots related to this game could be found on my facebook account.
+
+### Broken Age
+Excellent dual main line story! [click to watch it online](https://www.youtube.com/watch?v=kmGT6g1hq-M&index=1&list=PLeqwXTaiY-OwJWNH_k0QkfwIpOj1Gcmqt).
+
+## Travel
+
+### Singapore
+
+<!-- ## Coffee Roasting
 
 <img src="/images/coffee.jpg" class="floatpic">
 I drink a lot of coffee, and especially enjoy light roast espresso.  These
@@ -42,5 +58,5 @@ years since I competed, I still frequently train.
 
 I previously enjoyed skiing, sailing, horseback riding, climbing, hiking,
 and developing/playing computer games. However, I have not had time to do
-any of these things recently.
+any of these things recently. -->
 
