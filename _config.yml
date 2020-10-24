@@ -51,8 +51,8 @@ links:
   #  url: /projects/
   #- title: Publications
   #  url: /publications/
-  #- title: Hobbies
-  #  url: /hobbies/
+  - title: Hobbies
+   url: /hobbies/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
