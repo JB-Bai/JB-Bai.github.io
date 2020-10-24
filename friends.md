@@ -2,4 +2,4 @@
 layout: page
 ---
 
-[Junyi Xiao](jun-yi-xiao.github.io)
+[Junyi Xiao](https://jun-yi-xiao.github.io)
