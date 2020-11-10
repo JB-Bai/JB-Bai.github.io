@@ -22,6 +22,12 @@ Excellent dual main line story! [click to watch it online](https://www.youtube.c
 
 ### Singapore
 
+## Movies
+
+### Edge of Tomorrow, Oct.27 2020  
+### The Boy in the Striped Pajamas, Oct.27 2020
+### The Queen's Gambit， Nov.9 2020
+
 <!-- ## Coffee Roasting
 
 <img src="/images/coffee.jpg" class="floatpic">
