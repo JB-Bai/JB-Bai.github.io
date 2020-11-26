@@ -22,6 +22,8 @@ Excellent dual main line story! [click to watch it online](https://www.youtube.c
 
 ### Singapore
 
+### Beijing, Tianjin, Shanghai, Hangzhou, Suzhou, Nanjing, Xi'an, Wuhan, Chengdu, Chongqing, Yangzhou, Taiyuan  
+
 ## Movies
 
 ### Edge of Tomorrow, Oct.27 2020  

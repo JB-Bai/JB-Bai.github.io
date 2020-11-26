@@ -39,8 +39,8 @@ links:
   #   url: /pdf/Bai_CV.pdf
   # - title: A Brief Self-Introduction
   #   url: /pdf/Presentation_Self_Introduction.pdf
-  - title: Recent work
-    url: /renderer
+  # - title: Recent work
+  #   url: /renderer
   - title: Friends
     url: /friends
   # - title: Dream & Future
