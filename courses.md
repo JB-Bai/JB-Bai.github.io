@@ -4,11 +4,14 @@ permalink: /courses/index.html
 title: Courses I've attended
 ---
 # Courses I've Attended  
-  
+
+### The 4rd year 1st semester  (study on coursera)
+**Deep Learning Specilization** *taught by Prof. Andrew NG*
+**Deep Neural Networks with PyTorch** *taught Prof. Joseph Santarcangelo*
   
 ### The 3rd year 2st semester  
-**[Compiler](https://cs.nju.edu.cn/changxu/2_compiler/index.html)** *tanght by [Prof. XU Chang](https://cs.nju.edu.cn/changxu/)*  
-**[Machine Learning](http://www.lamda.nju.edu.cn/ml2020/handouts.htm)** *tanght by [Dr. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) & [Prof. De-Chuan Zhan](http://www.lamda.nju.edu.cn/zhandc/) & [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/)*  
+**[Compiler](https://cs.nju.edu.cn/changxu/2_compiler/index.html)** *taught by [Prof. XU Chang](https://cs.nju.edu.cn/changxu/)*  
+**[Machine Learning](http://www.lamda.nju.edu.cn/ml2020/handouts.htm)** *taught by [Dr. Han-Jia Ye](http://www.lamda.nju.edu.cn/yehj/) & [Prof. De-Chuan Zhan](http://www.lamda.nju.edu.cn/zhandc/) & [Prof. Zhi-Hua Zhou](https://cs.nju.edu.cn/zhouzh/)*  
 **[Data Mining](https://ai.nju.edu.cn/_upload/tpl/04/10/1040/template1040/courses/IntroDM/IntroDM.htm)** *taught by [Prof. Ming Li](http://www.lamda.nju.edu.cn/lim/)*  
 **[Digital Image Processing](http://www.lamda.nju.edu.cn/chengq/course/dip2020/course_page/dip2020.html)** *taught by [Prof. Lijun Zhang](https://cs.nju.edu.cn/zlj/)*  
 **Big Data Procesing Lab** *taught by [Prof. Rong Gu](https://cs.nju.edu.cn/gurong/) & [Prof. Yihua Huang](https://cs.nju.edu.cn/yhuang/)*
