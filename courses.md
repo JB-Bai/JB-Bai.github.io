@@ -5,9 +5,9 @@ title: Courses I've attended
 ---
 # Courses I've Attended  
 
-### The 4rd year 1st semester  (study on coursera)
-**Deep Learning Specilization** *taught by Prof. Andrew NG*
-**Deep Neural Networks with PyTorch** *taught Prof. Joseph Santarcangelo*
+### The 4rd year 1st semester  (study on coursera)  
+**Deep Learning Specilization** *taught by Prof. Andrew NG*  
+**Deep Neural Networks with PyTorch** *taught Prof. Joseph Santarcangelo*  
   
 ### The 3rd year 2st semester  
 **[Compiler](https://cs.nju.edu.cn/changxu/2_compiler/index.html)** *taught by [Prof. XU Chang](https://cs.nju.edu.cn/changxu/)*  
