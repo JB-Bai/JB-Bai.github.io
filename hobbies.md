@@ -31,7 +31,10 @@ Excellent dual main line story! [click to watch it online](https://www.youtube.c
 ### The Queen's Gambit, Nov.9 2020
 ### Anastasia(1956), Nov.15 2020
 ### Mad Max: Fury Road, Nov.22 2020
-### etc
+### Planet of the Apes(1968,1970,1971,1972,1973)，Dec.14/15 2020
+### Catch Me If You Can， Dec.20 2020
+### Shutter Island, Dec.21 2020
+
 
 
 
